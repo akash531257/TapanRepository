@@ -7,6 +7,7 @@ public class GitHubRepoDemo {
 	{
 		System.out.println("Hello github");
 		System.out.println("First change towards it");
+		System.out.println("Second change towards it");
 	}
 	
 }
